@@ -10,10 +10,6 @@ helenko7738@gmail.com
 #### Education
 -2024 Expanding Multimodal LLM to Multimodal Generation Research at ETRI., Hansung University
 
--2024 Writing a paper using an attention model
-
--2024 Joint Learning Project
-
 -2024 Hand Motion Classification Model Creation Project
 
 -2021 Entering Hanseong University
