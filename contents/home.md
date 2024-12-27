@@ -5,12 +5,21 @@
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+helenko7738@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+-2024 Expanding Multimodal LLM to Multimodal Generation Research at ETRI., Hansung University
+
+-2024 Writing a paper using an attention model
+
+-2024 Joint Learning Project
+
+-2024 Hand Motion Classification Model Creation Project
+
+-2021 Entering Hanseong University
+
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+-Visual Intelligence Learning
+-Data classification
 
