@@ -15,5 +15,5 @@ Entering Hansung University 2021
 
 
 #### Research Interests
-Computer Vision, Diffufsion
+Computer Vision, Diffufsion, Multi Modal
 
