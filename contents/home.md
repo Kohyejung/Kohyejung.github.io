@@ -11,7 +11,7 @@ Expanding Multimodal LLM to Multimodal Generation Research at ETRI., Hansung Uni
 
 Hand Motion Classification, Introduction to Deep Learning 2024-2
 
-Entering Hanseong University 2021 
+Entering Hansung University 2021 
 
 
 #### Research Interests
