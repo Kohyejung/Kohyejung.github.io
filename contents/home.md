@@ -36,6 +36,3 @@ CV, NLP, HCI
 - Using Dreambooth for Restoration of Cultural Properties in Low Data, Hansung University,Korea (Oct. 2024 ~ Dec. 2024)
 
 - Expanding Multimodal LLM to Multimodal Generation Research at ETRI., Hansung University,Korea (Mar. 2024 ~ Jun. 2024)
-
-- Expanding Multimodal LLM to Multimodal Generation Research at ETRI., Hansung University(2024)
-
