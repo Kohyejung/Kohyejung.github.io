@@ -13,8 +13,6 @@ LG Aimers 6th Cohort, Korea (Jan. 2025 ~ Feb. 2025)
 
 Expanding Multimodal LLM to Multimodal Generation Research at ETRI., Hansung University (2024 ~ present)
 
-Hand Motion Classification, Introduction to Deep Learning 2024-2
-
 Entering Hansung University 2021 
 
 #### Research Interests
