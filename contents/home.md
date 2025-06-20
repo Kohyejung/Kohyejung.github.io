@@ -3,8 +3,10 @@
 
 Studying intelligent systems at Hansung University and studying various things related to AI.
 
+
 #### Email
 helenko7738@gmail.com
+
 
 #### Education
 Entering UXC Lab Intern, Kyung Hee University (July.2024 ~ Present) 
@@ -17,8 +19,10 @@ Expanding Multimodal LLM to Multimodal Generation Research at ETRI., Hansung Uni
 
 Entering Hansung University 2021 
 
+
 #### Research Interests
 CV, NLP, HCI
+
 
 #### Project
 - Patent DPO finetuning project, BOAZ, Korea (May. 2025 ~ Present)
