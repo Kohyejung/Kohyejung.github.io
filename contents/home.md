@@ -16,7 +16,7 @@ Expanding Multimodal LLM to Multimodal Generation Research at ETRI., Hansung Uni
 Entering Hansung University 2021 
 
 #### Research Interests
-HCI, UX, Embedded system
+CV, NLP, HCI
 
 #### Project
 Patent DPO finetuning project, BOAZ, Korea (May. 2025 ~ Present)
