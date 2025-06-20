@@ -7,7 +7,7 @@ Studying intelligent systems at Hansung University and studying various things r
 helenko7738@gmail.com
 
 #### Education
-Entering Hansung University (July.2024 ~ Present) 
+Entering UXC Lab Intern, Kyung Hee University (July.2024 ~ Present) 
 
 Active in AI organization BOAZ, Korea, CV/NLP paper review and AI project (Jan. 2025 ~ Present)
 
