@@ -13,7 +13,7 @@ Entering UXC Lab Intern, Kyung Hee University (July.2024 ~ Present)
 
 Active in AI organization BOAZ, Korea, CV/NLP paper review and AI project (Jan. 2025 ~ Present)
 
-LG Aimers 6th Cohort, Korea (Jan. 2025 ~ Feb. 2025)
+LG Aimers 6th Course, Korea (Jan. 2025 ~ Feb. 2025)
 
 Expanding Multimodal LLM to Multimodal Generation Research at ETRI., Hansung University (2024 ~ present)
 
@@ -24,7 +24,7 @@ Entering Hansung University 2021
 CV, NLP, HCI
 
 
-#### Project
+#### Featured Projects
 - Patent DPO finetuning project, BOAZ, Korea (May. 2025 ~ Present)
 
 - Text-to-Speech & Voice Cloning for Anime Characters, Capstone, Hansung University, Korea(Feb. 2025 ~ Jun. 2025)
